@@ -54,3 +54,5 @@ List of GAME ID's in Uplay by Ubisoft
 507 - The Crew (Russian)  
 2070 - Trackmania Turbo  
 3584 - South Park - The Stick of Truth  
+
+More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
