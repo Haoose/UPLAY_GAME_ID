@@ -17,6 +17,8 @@ List of GAME ID's in Uplay by Ubisoft
 1847 - Assassin's Creed Chronicles India  
 1848 - Assassin's Creed Chronicles Russian  
 1955 - Assassin's Creed Syndicate  
+3539 - Assassin's Creed Origins  
+5059 - Assassin's Creed Odyssey  
 
 # FAR CRY Franchise
 46 - Far Cry 3  
@@ -33,6 +35,7 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Tom Clancy's Franchise
 2 - Tom Clancy's Splinter Cell Conviction  
+88 - Tom Clancy's Rainbow Six Vegas  
 91 - Tom Clancy's Splinter Cell Blacklist  
 109 - Tom Clancy's Splinter Cell  
 568 - Tom Clancy's The Division  
@@ -49,10 +52,21 @@ List of GAME ID's in Uplay by Ubisoft
 # Other
 3 - Silent Hunter 5  
 80 - Rayman Origins  
+90 - World In Conflict  
 232 - Beyond Good and Evil  
+297 - Trials Fusion  
 413 - The Crew (Worldwide)  
 507 - The Crew (Russian)  
+1176 - Might and Magic: Heroes VII  
+1253 - Anno 2205  
+1275 - Trials Fusion Multiplayer Beta  
 2070 - Trackmania Turbo  
+2990 - Anno 1602  
+3088 - South Park: The Fractured But Whole  
+3097 - Champions of Anteria Demo  
+3279 - Steep  
+3601 - Trials Rising  
+3458 - For Honor  
 3584 - South Park - The Stick of Truth  
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
