@@ -44,6 +44,7 @@ List of GAME ID's in Uplay by Ubisoft
 1842 - Tom Clancy's Rainbow Six® Siege (RU)  
 2036 - Tom Clancy's The Division Beta  
 3502 - Tom Clancy's The Division PTS  
+4865 - Tom Clancy's Rainbow Six® Siege Test Server  
 
 # Prince of Persia Franchise
 11 - Prince of Persia: The Forgotten Sands  
