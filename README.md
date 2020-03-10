@@ -16,7 +16,8 @@ List of GAME ID's in Uplay by Ubisoft
 1651 - Assassin's Creed® Chronicles China  
 1847 - Assassin's Creed® Chronicles India  
 1848 - Assassin's Creed® Chronicles Russia  
-1955 - Assassin's Creed Syndicate  
+1875 - Assassin's Creed Syndicate
+1955 - Assassin's Creed Syndicate (RU) 
 3539 - Assassin's Creed Origins  
 5059 - Assassin's Creed Odyssey  
 
@@ -27,9 +28,12 @@ List of GAME ID's in Uplay by Ubisoft
 205 - Far Cry® 3 Blood Dragon  
 420 - Far Cry® 4  
 969 - Far Cry 4 RU  
-2010 - Far Cry® Primal  
+2010 - Far Cry® Primal
+1803 - Far Cry® 5
+5210 - Far Cry® New Dawn
 
 # Watch_Dogs Franshise
+274 - Watch_Dogs
 543 - Watch_Dogs (RU)  
 2688 - WATCH_DOGS2  
 
