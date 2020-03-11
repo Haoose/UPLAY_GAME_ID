@@ -20,6 +20,9 @@ List of GAME ID's in Uplay by Ubisoft
 1955 - Assassin's Creed Syndicate (RU) 
 3539 - Assassin's Creed Origins  
 5059 - Assassin's Creed Odyssey  
+5183 - Assassin's Creed® III Remastered
+5184 - Assassin's Creed® III Remastered (RU) ?
+
 
 # FAR CRY Franchise
 46 - Far Cry® 3  
@@ -52,8 +55,18 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Prince of Persia Franchise
 11 - Prince of Persia: The Forgotten Sands  
-111- Prince of Persia: The Sands of Time™  
+111 - Prince of Persia: The Sands of Time™  
 277 - Prince of Persia (2008)  
+
+# Anno Franchise
+1253 - Anno 2205 
+2052 - Anno 2205
+2990 - Anno 1602 
+
+# The Crew Franchise
+413 - The Crew (Worldwide)  
+507 - The Crew (Russian)  
+750 - The Crew (Beta)  
 
 # Other
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
@@ -61,14 +74,9 @@ List of GAME ID's in Uplay by Ubisoft
 90 - World In Conflict  
 232 - Beyond Good and Evil™  
 297 - Trials Fusion  
-413 - The Crew (Worldwide)  
-507 - The Crew (Russian)  
-750 - The Crew (Beta)  
 1176 - Might & Magic Heroes VII  
-1253 - Anno 2205  
 1275 - Trials Fusion Multiplayer Beta  
 2070 - Trackmania Turbo  
-2990 - Anno 1602  
 3088 - South Park: The Fractured But Whole  
 3097 - Champions of Anteria Demo  
 3279 - Steep  
