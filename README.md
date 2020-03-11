@@ -6,11 +6,11 @@ List of GAME ID's in Uplay by Ubisoft
 26 - Assassin's Creed Brotherhood  
 54 - Assassin's Creed® III  
 82 - Assassin's Creed™  
-273 - Assassin’s Creed® IV Black Flag™  
+273 - Assassin’s Creed® IV Black Flag™
 441 - Assassin’s Creed® IV Black Flag™ (RU)  
-625 - Assassin's Creed® Liberation HD  
-720 - Assassin's Creed Unity  
-895 - Assassin's Creed Rogue   
+625 - Assassin's Creed® Liberation HD
+720 - Assassin's Creed Unity
+895 - Assassin's Creed Rogue
 944 - Assassin's Creed Unity (RU)  
 1186 - Assassin's Creed Rogue (RU)  
 1651 - Assassin's Creed® Chronicles China  
@@ -21,7 +21,7 @@ List of GAME ID's in Uplay by Ubisoft
 3539 - Assassin's Creed Origins  
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered
-5184 - Assassin's Creed® III Remastered (RU) ?
+
 
 
 # FAR CRY Franchise
@@ -29,10 +29,10 @@ List of GAME ID's in Uplay by Ubisoft
 84 - Far Cry  
 85 - Far Cry 2  
 205 - Far Cry® 3 Blood Dragon  
-420 - Far Cry® 4  
-969 - Far Cry 4 RU  
-2010 - Far Cry® Primal
+420 - Far Cry® 4
+969 - Far Cry 4 RU
 1803 - Far Cry® 5
+2010 - Far Cry® Primal
 5210 - Far Cry® New Dawn
 
 # Watch_Dogs Franshise
@@ -60,7 +60,6 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Anno Franchise
 1253 - Anno 2205 
-2052 - Anno 2205
 2990 - Anno 1602 
 
 # The Crew Franchise
@@ -83,5 +82,15 @@ List of GAME ID's in Uplay by Ubisoft
 3601 - Trials Rising  
 3458 - For Honor  
 3584 - South Park - The Stick of Truth  
+
+# To be verifyed
+437 - Assassin’s Creed® IV Black Flag™ (unknown Version)
+632 - Assassin's Creed® Liberation HD (RU) ? 
+856 - Far Cry® 4 (unknown Version)
+857 - Assassin's Creed Unity (unknown Version)
+934 - Assassin's Creed Rogue (unknown Version)
+2029 - Far Cry® Primal (RU) ?
+2052 - Anno 2205 (unknown Version)
+5184 - Assassin's Creed® III Remastered (RU) ?
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
