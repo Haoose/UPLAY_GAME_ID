@@ -11,8 +11,10 @@ List of GAME ID's in Uplay by Ubisoft
 104 - Assassin's Creed® III (JPN)
 105 -  Assassin's Creed® III (CZ)
 273 - Assassin’s Creed® IV Black Flag™
-441 - Assassin’s Creed® IV Black Flag™ (RU)  
+441 - Assassin’s Creed® IV Black Flag™ (RU)
+442 - Assassin’s Creed® IV Black Flag™ (Asia)
 625 - Assassin's Creed® Liberation HD
+664 - Assassin's Creed® Freedom Cry
 720 - Assassin's Creed Unity
 895 - Assassin's Creed Rogue
 944 - Assassin's Creed Unity (RU)  
@@ -56,7 +58,8 @@ List of GAME ID's in Uplay by Ubisoft
 1842 - Tom Clancy's Rainbow Six® Siege (RU)  
 2036 - Tom Clancy's The Division Beta  
 3502 - Tom Clancy's The Division PTS  
-4865 - Tom Clancy's Rainbow Six® Siege Test Server  
+4865 - Tom Clancy's Rainbow Six® Siege Test Server
+11903 - Tom Clancy's Ghost Recon® Breakpoint
 
 # Prince of Persia Franchise
 11 - Prince of Persia: The Forgotten Sands  
@@ -69,7 +72,8 @@ List of GAME ID's in Uplay by Ubisoft
 22 - Anno 2070
 89 - Anno 1404
 1253 - Anno 2205 
-2990 - Anno 1602 
+2990 - Anno 1602
+4553 - Anno 1800
 
 # The Crew Franchise
 413 - The Crew (Worldwide)  
@@ -101,6 +105,7 @@ List of GAME ID's in Uplay by Ubisoft
 856 - Far Cry® 4 (unknown Version)
 857 - Assassin's Creed Unity (unknown Version)
 934 - Assassin's Creed Rogue (unknown Version)
+1428 - Watch Dogs (US) ?
 2029 - Far Cry® Primal (RU) ?
 2052 - Anno 2205 (unknown Version)
 5184 - Assassin's Creed® III Remastered (RU) ?
