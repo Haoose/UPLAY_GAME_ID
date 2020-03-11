@@ -3,9 +3,13 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Assassin's Creed Franchise
 4 - Assassin's Creed II  
-26 - Assassin's Creed Brotherhood  
-54 - Assassin's Creed® III  
-82 - Assassin's Creed™  
+26 - Assassin's Creed Brotherhood
+40 - Assassin's Creed Revelations 
+54 - Assassin's Creed® III
+82 - Assassin's Creed®
+103 - Assassin's Creed® III (RU)
+104 - Assassin's Creed® III (JPN)
+105 -  Assassin's Creed® III (CZ)
 273 - Assassin’s Creed® IV Black Flag™
 441 - Assassin’s Creed® IV Black Flag™ (RU)  
 625 - Assassin's Creed® Liberation HD
@@ -21,8 +25,6 @@ List of GAME ID's in Uplay by Ubisoft
 3539 - Assassin's Creed Origins  
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered
-
-
 
 # FAR CRY Franchise
 46 - Far Cry® 3  
@@ -43,8 +45,11 @@ List of GAME ID's in Uplay by Ubisoft
 # Tom Clancy's Franchise
 2 - Tom Clancy's Splinter Cell Conviction  
 88 - Tom Clancy's Rainbow Six® Vegas  
-91 - Tom Clancy's Splinter Cell Blacklist  
+91 - Tom Clancy's Splinter Cell Blacklist
+95 - Tom Clancy's Splinter Cell Chaos Theory
+108 - Tom Clancy's Rainbow 6 VEGAS 2
 109 - Tom Clancy's Splinter Cell  
+110 - Tom Clancy's Splinter Cell Double Age
 568 - Tom Clancy's The Division™  
 635 - Tom Clancy's Rainbow Six Siege  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
@@ -55,10 +60,14 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Prince of Persia Franchise
 11 - Prince of Persia: The Forgotten Sands  
-111 - Prince of Persia: The Sands of Time™  
+111 - Prince of Persia: The Sands of Time™ 
+113 - Prince of Persia: The Two Thrones
+121 - Prince of Persia: Warrior Within
 277 - Prince of Persia (2008)  
 
 # Anno Franchise
+22 - Anno 2070
+89 - Anno 1404
 1253 - Anno 2205 
 2990 - Anno 1602 
 
@@ -68,7 +77,9 @@ List of GAME ID's in Uplay by Ubisoft
 750 - The Crew (Beta)  
 
 # Other
-3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
+3 - Silent Hunter®: Battle of the Atlantic Gold Edition
+8 - The Settlers 7: Paths to a Kingdom
+13 - Driver: San Francisco
 80 - Rayman Origins  
 90 - World In Conflict  
 232 - Beyond Good and Evil™  
@@ -84,6 +95,7 @@ List of GAME ID's in Uplay by Ubisoft
 3584 - South Park - The Stick of Truth  
 
 # To be verifyed
+276 - Prince of Persia 
 437 - Assassin’s Creed® IV Black Flag™ (unknown Version)
 632 - Assassin's Creed® Liberation HD (RU) ? 
 856 - Far Cry® 4 (unknown Version)
