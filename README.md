@@ -84,6 +84,7 @@ List of GAME ID's in Uplay by Ubisoft
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
 8 - The Settlers 7: Paths to a Kingdom  
 13 - Driver: San Francisco  
+78 - Trials Evolution: Gold Edition  
 80 - Rayman Origins  
 90 - World In Conflict  
 232 - Beyond Good and Evil™  
