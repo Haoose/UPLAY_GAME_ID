@@ -89,6 +89,7 @@ List of GAME ID's in Uplay by Ubisoft
 90 - World In Conflict  
 232 - Beyond Good and Evil™  
 297 - Trials Fusion  
+609 - Child of Light  
 1176 - Might & Magic Heroes VII  
 1275 - Trials Fusion Multiplayer Beta  
 2070 - Trackmania Turbo  
