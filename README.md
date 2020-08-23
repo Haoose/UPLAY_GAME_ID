@@ -39,7 +39,7 @@ List of GAME ID's in Uplay by Ubisoft
 2010 - Far Cry® Primal  
 5210 - Far Cry® New Dawn
 
-# Watch_Dogs Franshise
+# Watch_Dogs Franchise
 274 - Watch_Dogs  
 543 - Watch_Dogs (RU)  
 2688 - WATCH_DOGS2
