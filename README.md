@@ -111,5 +111,6 @@ List of GAME ID's in Uplay by Ubisoft
 2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
 5184 - Assassin's Creed® III Remastered (RU) ?
+11957 - Hyper Scape
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
