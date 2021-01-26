@@ -102,7 +102,7 @@ List of GAME ID's in Uplay by Ubisoft
 
 # To be verifyed
 276 - Prince of Persia  
-437 - Assassin’s Creed® IV Black Flag™ (unknown Version)  
+437 - Assassin’s Creed® IV Black Flag™ (Steam Version)  
 632 - Assassin's Creed® Liberation HD (RU) ?  
 856 - Far Cry® 4 (unknown Version)  
 857 - Assassin's Creed Unity (unknown Version)  
