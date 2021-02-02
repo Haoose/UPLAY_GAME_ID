@@ -101,7 +101,7 @@ List of GAME ID's in Uplay by Ubisoft
 3458 - For Honor  
 3584 - South Park - The Stick of Truth
 
-# To be verifyed
+# To be verified
 276 - Prince of Persia  
 437 - Assassin’s Creed® IV Black Flag™ (Steam Version)  
 632 - Assassin's Creed® Liberation HD (RU) ?  
