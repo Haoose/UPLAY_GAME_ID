@@ -27,6 +27,7 @@ List of GAME ID's in Uplay by Ubisoft
 3539 - Assassin's Creed Origins  
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered
+13504 - Assassin's Creed® Valhalla
 
 # FAR CRY Franchise
 46 - Far Cry® 3  
@@ -43,6 +44,7 @@ List of GAME ID's in Uplay by Ubisoft
 274 - Watch_Dogs  
 543 - Watch_Dogs (RU)  
 2688 - WATCH_DOGS2
+3353 - Watch Dogs: Legion
 
 # Tom Clancy's Franchise
 2 - Tom Clancy's Splinter Cell Conviction  
