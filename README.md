@@ -16,6 +16,7 @@ List of GAME ID's in Uplay by Ubisoft
 625 - Assassin's Creed® Liberation HD  
 664 - Assassin's Creed® Freedom Cry  
 720 - Assassin's Creed Unity  
+857 - Assassin's Creed Unity (Steam)  
 895 - Assassin's Creed Rogue  
 944 - Assassin's Creed Unity (RU)  
 1186 - Assassin's Creed Rogue (RU)  
@@ -108,7 +109,6 @@ List of GAME ID's in Uplay by Ubisoft
 437 - Assassin’s Creed® IV Black Flag™ (Steam Version)  
 632 - Assassin's Creed® Liberation HD (RU) ?  
 856 - Far Cry® 4 (unknown Version)  
-857 - Assassin's Creed Unity (unknown Version)  
 934 - Assassin's Creed Rogue (unknown Version)  
 1428 - Watch Dogs (US) ?  
 2029 - Far Cry® Primal (RU) ?  
