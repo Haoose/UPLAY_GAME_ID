@@ -11,6 +11,7 @@ List of GAME ID's in Uplay by Ubisoft
 104 - Assassin's Creed® III (JPN)  
 105 -  Assassin's Creed® III (CZ)  
 273 - Assassin’s Creed® IV Black Flag™  
+437 - Assassin’s Creed® IV Black Flag™ (Steam Version) 
 441 - Assassin’s Creed® IV Black Flag™ (RU)  
 442 - Assassin’s Creed® IV Black Flag™ (Asia)  
 625 - Assassin's Creed® Liberation HD  
@@ -20,6 +21,7 @@ List of GAME ID's in Uplay by Ubisoft
 895 - Assassin's Creed Rogue  
 944 - Assassin's Creed Unity (RU)  
 1186 - Assassin's Creed Rogue (RU)  
+1187 - Assassin's Creed Rogue (RU) (Steam Version)
 1651 - Assassin's Creed® Chronicles China  
 1847 - Assassin's Creed® Chronicles India  
 1848 - Assassin's Creed® Chronicles Russia  
@@ -28,6 +30,7 @@ List of GAME ID's in Uplay by Ubisoft
 3539 - Assassin's Creed Origins  
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered  
+5184 - Assassin's Creed® III Remastered (Steam Version)
 13504 - Assassin's Creed® Valhalla
 
 # FAR CRY Franchise
@@ -106,14 +109,12 @@ List of GAME ID's in Uplay by Ubisoft
 
 # To be verified
 276 - Prince of Persia  
-437 - Assassin’s Creed® IV Black Flag™ (Steam Version)  
 632 - Assassin's Creed® Liberation HD (RU) ?  
 856 - Far Cry® 4 (unknown Version)  
 934 - Assassin's Creed Rogue (unknown Version)  
 1428 - Watch Dogs (US) ?  
 2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
-5184 - Assassin's Creed® III Remastered (RU) ?  
 11957 - Hyper Scape  
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
