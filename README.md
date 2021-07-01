@@ -20,7 +20,7 @@ List of GAME ID's in Uplay by Ubisoft
 857 - Assassin's Creed Unity (Steam)  
 895 - Assassin's Creed Rogue  
 944 - Assassin's Creed Unity (RU)  
-945 - Assassin's Creed Unity (RU) (Steam Version)
+945 - Assassin's Creed Unity (RU) (Steam Version)  
 1186 - Assassin's Creed Rogue (RU)  
 1187 - Assassin's Creed Rogue (RU) (Steam Version)  
 1651 - Assassin's Creed® Chronicles China  
