@@ -9,7 +9,7 @@ List of GAME ID's in Uplay by Ubisoft
 82 - Assassin's Creed®  
 103 - Assassin's Creed® III (RU)  
 104 - Assassin's Creed® III (JPN)  
-105 -  Assassin's Creed® III (CZ)  
+105 - Assassin's Creed® III (CZ)  
 273 - Assassin’s Creed® IV Black Flag™  
 437 - Assassin’s Creed® IV Black Flag™ (Steam Version)  
 441 - Assassin’s Creed® IV Black Flag™ (RU)  
@@ -28,7 +28,9 @@ List of GAME ID's in Uplay by Ubisoft
 1848 - Assassin's Creed® Chronicles Russia  
 1875 - Assassin's Creed Syndicate  
 1955 - Assassin's Creed Syndicate (RU)  
+1958 - Assassin's Creed Syndicate (RU) (Steam Version)
 3539 - Assassin's Creed Origins  
+4923 - Assassin's Creed Origins (Steam Version)
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered  
 5184 - Assassin's Creed® III Remastered (Steam Version)  
