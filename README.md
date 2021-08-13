@@ -28,9 +28,9 @@ List of GAME ID's in Uplay by Ubisoft
 1848 - Assassin's Creed® Chronicles Russia  
 1875 - Assassin's Creed Syndicate  
 1955 - Assassin's Creed Syndicate (RU)  
-1958 - Assassin's Creed Syndicate (RU) (Steam Version)
+1958 - Assassin's Creed Syndicate (RU) (Steam Version)  
 3539 - Assassin's Creed Origins  
-4923 - Assassin's Creed Origins (Steam Version)
+4923 - Assassin's Creed Origins (Steam Version)  
 5059 - Assassin's Creed Odyssey  
 5183 - Assassin's Creed® III Remastered  
 5184 - Assassin's Creed® III Remastered (Steam Version)  
