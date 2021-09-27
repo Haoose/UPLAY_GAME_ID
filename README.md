@@ -24,16 +24,20 @@ List of GAME ID's in Uplay by Ubisoft
 1186 - Assassin's Creed Rogue (RU)  
 1187 - Assassin's Creed Rogue (RU) (Steam Version)  
 1651 - Assassin's Creed® Chronicles China  
+1841 - Assassin's Creed® Chronicles China (Steam Version)  
 1847 - Assassin's Creed® Chronicles India  
 1848 - Assassin's Creed® Chronicles Russia  
 1875 - Assassin's Creed Syndicate  
 1955 - Assassin's Creed Syndicate (RU)  
 1958 - Assassin's Creed Syndicate (RU) (Steam Version)  
 3539 - Assassin's Creed Origins  
+4919 - Assassin's Creed II (Steam Version)  
 4923 - Assassin's Creed Origins (Steam Version)  
 5059 - Assassin's Creed Odyssey  
+5100 - Discovery Tour by Assassin's Creed: Ancient Egypt  
 5183 - Assassin's Creed® III Remastered  
 5184 - Assassin's Creed® III Remastered (Steam Version)  
+5404 - Discovery Tour: Ancient Greece by Ubisoft  
 13504 - Assassin's Creed® Valhalla
 
 # FAR CRY Franchise
@@ -51,8 +55,10 @@ List of GAME ID's in Uplay by Ubisoft
 # Watch_Dogs Franchise
 274 - Watch_Dogs  
 543 - Watch_Dogs (RU)  
-2688 - WATCH_DOGS2  
-3353 - Watch Dogs: Legion
+741 - Watch_Dogs (Steam)  
+2688 - WATCH_DOGS® 2  
+3353 - Watch Dogs: Legion  
+3619 - WATCH_DOGS® 2 (Steam) 
 
 # Tom Clancy's Franchise
 2 - Tom Clancy's Splinter Cell Conviction  
@@ -65,10 +71,12 @@ List of GAME ID's in Uplay by Ubisoft
 568 - Tom Clancy's The Division™  
 635 - Tom Clancy's Rainbow Six Siege  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
+1835 - Tom Clancy's The Division™ (RU)  
 1842 - Tom Clancy's Rainbow Six® Siege (RU)  
 2036 - Tom Clancy's The Division Beta  
 3502 - Tom Clancy's The Division PTS  
 4865 - Tom Clancy's Rainbow Six® Siege Test Server  
+4932 - Tom Clancy's The Division™ 2  
 11903 - Tom Clancy's Ghost Recon® Breakpoint
 
 # Prince of Persia Franchise
@@ -89,27 +97,48 @@ List of GAME ID's in Uplay by Ubisoft
 413 - The Crew (Worldwide)  
 507 - The Crew (Russian)  
 750 - The Crew (Beta)  
+5037 - The Crew 2  
 
 # Other
+2 - The Crew 2 Trial Version  
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
+5 - Trial Rising Demo  
 8 - The Settlers 7: Paths to a Kingdom  
 13 - Driver: San Francisco  
+18 - The Settlers Online  
 44 - Might & Magic Heroes VI  
 78 - Trials Evolution: Gold Edition  
 80 - Rayman Origins  
 90 - World In Conflict  
 232 - Beyond Good and Evil™  
 297 - Trials Fusion  
+410 - Rayman Legends  
+411 - Rayman Legends Demo  
+423 - Flashback Demo  
+540 - ShootMania Storm Elite Demo  
+569 - For Honor  
 609 - Child of Light  
+661 - Valiant Hearts (Steam)  
+801 - Child of Light Demo  
 1176 - Might & Magic Heroes VII  
 1275 - Trials Fusion Multiplayer Beta  
 2070 - Trackmania Turbo  
 3088 - South Park: The Fractured But Whole  
 3097 - Champions of Anteria Demo  
 3279 - Steep  
+3361 - UNO Demo  
+3600 - Trials Rising  
 3601 - Trials Rising  
 3458 - For Honor  
-3584 - South Park - The Stick of Truth
+3584 - South Park - The Stick of Truth  
+5277 - Starlink: Battle For Atlas  
+5408 - Rabbits Coding!  
+5595 - Trackmania  
+5613 - Might & Magic - Chess Royale  
+5726 - Immortal Fenyx Rising Demo  
+9797 - Ode  
+11957 - Hyper Scape  
+16238 - Anno 1701 History Edition
 
 # To be verified
 276 - Prince of Persia  
@@ -119,6 +148,5 @@ List of GAME ID's in Uplay by Ubisoft
 1428 - Watch Dogs (US) ?  
 2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
-11957 - Hyper Scape  
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
