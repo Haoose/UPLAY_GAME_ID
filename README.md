@@ -45,8 +45,8 @@ List of GAME ID's in Uplay by Ubisoft
 969 - Far Cry 4 RU  
 1803 - Far Cry® 5  
 2010 - Far Cry® Primal  
-5210 - Far Cry® New Dawn
-5266 - Far Cry® 6  
+5210 - Far Cry® New Dawn  
+5266 - Far Cry® 6
 
 # Watch_Dogs Franchise
 274 - Watch_Dogs  
