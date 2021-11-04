@@ -77,6 +77,7 @@ List of GAME ID's in Uplay by Ubisoft
 3502 - Tom Clancy's The Division PTS  
 4865 - Tom Clancy's Rainbow Six® Siege Test Server  
 4932 - Tom Clancy's The Division™ 2  
+5271 - Tom Clancy's Rainbow Six® Extraction Technical Test  
 11903 - Tom Clancy's Ghost Recon® Breakpoint
 
 # Prince of Persia Franchise
