@@ -49,7 +49,7 @@ List of GAME ID's in Uplay by Ubisoft
 420 - Far Cry® 4  
 969 - Far Cry 4 RU  
 1803 - Far Cry® 5  
-4311 - Far Cry® 5 (Steam Version)
+4311 - Far Cry® 5 (Steam Version)  
 2010 - Far Cry® Primal  
 5210 - Far Cry® New Dawn  
 5266 - Far Cry® 6
@@ -73,7 +73,7 @@ List of GAME ID's in Uplay by Ubisoft
 568 - Tom Clancy's The Division™  
 635 - Tom Clancy's Rainbow Six Siege  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
-2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)
+2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)  
 1835 - Tom Clancy's The Division™ (RU)  
 1842 - Tom Clancy's Rainbow Six® Siege (RU)  
 2036 - Tom Clancy's The Division Beta  
