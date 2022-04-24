@@ -82,6 +82,7 @@ List of GAME ID's in Uplay by Ubisoft
 4932 - Tom Clancy's The Division™ 2  
 5159 - Tom Clancy's The Division 2 - PPS  
 5271 - Tom Clancy's Rainbow Six® Extraction Technical Test  
+5271 - Tom Clancy's Rainbow Six® Extraction
 11903 - Tom Clancy's Ghost Recon® Breakpoint
 
 # Prince of Persia Franchise
