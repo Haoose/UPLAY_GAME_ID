@@ -143,6 +143,7 @@ List of GAME ID's in Uplay by Ubisoft
 5613 - Might & Magic - Chess Royale  
 5726 - Immortal Fenyx Rising Demo  
 9797 - Ode  
+11899 - Roller Champions  
 11957 - Hyper Scape  
 16238 - Anno 1701 History Edition
 
