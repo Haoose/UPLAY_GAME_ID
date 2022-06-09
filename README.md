@@ -137,7 +137,8 @@ List of GAME ID's in Uplay by Ubisoft
 3601 - Trials Rising  
 3458 - For Honor  
 3584 - South Park - The Stick of Truth  
-5277 - Starlink: Battle For Atlas  
+5277 - Starlink: Battle For Atlas
+5405 - Immortals Fenyx Rising
 5408 - Rabbits Coding!  
 5595 - Trackmania  
 5613 - Might & Magic - Chess Royale  
