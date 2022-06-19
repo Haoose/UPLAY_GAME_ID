@@ -147,6 +147,7 @@ List of GAME ID's in Uplay by Ubisoft
 11899 - Roller Champions  
 11957 - Hyper Scape  
 16238 - Anno 1701 History Edition
+5705 - Scott Pilgrim vs the World The Game
 
 # To be verified
 276 - Prince of Persia  
