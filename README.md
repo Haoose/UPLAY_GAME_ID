@@ -137,17 +137,17 @@ List of GAME ID's in Uplay by Ubisoft
 3601 - Trials Rising  
 3458 - For Honor  
 3584 - South Park - The Stick of Truth  
-5277 - Starlink: Battle For Atlas
-5405 - Immortals Fenyx Rising
+5277 - Starlink: Battle For Atlas  
+5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
 5595 - Trackmania  
 5613 - Might & Magic - Chess Royale  
+5705 - Scott Pilgrim vs the World The Game  
 5726 - Immortal Fenyx Rising Demo  
 9797 - Ode  
 11899 - Roller Champions  
 11957 - Hyper Scape  
-16238 - Anno 1701 History Edition
-5705 - Scott Pilgrim vs the World The Game
+16238 - Anno 1701 History Edition  
 
 # To be verified
 276 - Prince of Persia  
