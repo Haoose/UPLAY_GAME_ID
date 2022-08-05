@@ -79,7 +79,7 @@ List of GAME ID's in Uplay by Ubisoft
 110 - Tom Clancy's Splinter Cell Double Age  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
 2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)  
-11903 - Tom Clancy's Ghost Recon® Breakpoint
+11903 - Tom Clancy's Ghost Recon® Breakpoint  
 568 - Tom Clancy's The Division™  
 1835 - Tom Clancy's The Division™ (RU)  
 2036 - Tom Clancy's The Division Beta  
