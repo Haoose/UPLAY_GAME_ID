@@ -69,6 +69,7 @@ List of GAME ID's in Uplay by Ubisoft
 1842 - Tom Clancy's Rainbow Six® Siege (RU)  
 1843 - Tom Clancy's Rainbow Six® Siege (Steam)  
 4865 - Tom Clancy's Rainbow Six® Siege Test Server  
+10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
 5271 - Tom Clancy's Rainbow Six® Extraction  
 5271 - Tom Clancy's Rainbow Six® Extraction Technical Test  
 2 - Tom Clancy's Splinter Cell Conviction  
@@ -133,6 +134,7 @@ List of GAME ID's in Uplay by Ubisoft
 3088 - South Park: The Fractured But Whole  
 3097 - Champions of Anteria Demo  
 3279 - Steep  
+3360 - UNO  
 3361 - UNO Demo  
 3600 - Trials Rising  
 3601 - Trials Rising  
