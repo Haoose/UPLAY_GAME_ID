@@ -63,27 +63,28 @@ List of GAME ID's in Uplay by Ubisoft
 3619 - WATCH_DOGS® 2 (Steam) 
 
 # Tom Clancy's Franchise
-2 - Tom Clancy's Splinter Cell Conviction  
 88 - Tom Clancy's Rainbow Six® Vegas  
+108 - Tom Clancy's Rainbow 6 VEGAS 2  
+635 - Tom Clancy's Rainbow Six Siege  
+1842 - Tom Clancy's Rainbow Six® Siege (RU)  
+1843 - Tom Clancy's Rainbow Six® Siege (Steam)  
+4865 - Tom Clancy's Rainbow Six® Siege Test Server  
+5271 - Tom Clancy's Rainbow Six® Extraction  
+5271 - Tom Clancy's Rainbow Six® Extraction Technical Test  
+2 - Tom Clancy's Splinter Cell Conviction  
 91 - Tom Clancy's Splinter Cell Blacklist  
 95 - Tom Clancy's Splinter Cell Chaos Theory  
-108 - Tom Clancy's Rainbow 6 VEGAS 2  
 109 - Tom Clancy's Splinter Cell  
 110 - Tom Clancy's Splinter Cell Double Age  
-568 - Tom Clancy's The Division™  
-635 - Tom Clancy's Rainbow Six Siege  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
 2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)  
+11903 - Tom Clancy's Ghost Recon® Breakpoint
+568 - Tom Clancy's The Division™  
 1835 - Tom Clancy's The Division™ (RU)  
-1842 - Tom Clancy's Rainbow Six® Siege (RU)  
 2036 - Tom Clancy's The Division Beta  
 3502 - Tom Clancy's The Division PTS  
-4865 - Tom Clancy's Rainbow Six® Siege Test Server  
 4932 - Tom Clancy's The Division™ 2  
 5159 - Tom Clancy's The Division 2 - PPS  
-5271 - Tom Clancy's Rainbow Six® Extraction Technical Test  
-5271 - Tom Clancy's Rainbow Six® Extraction  
-11903 - Tom Clancy's Ghost Recon® Breakpoint
 
 # Prince of Persia Franchise
 11 - Prince of Persia: The Forgotten Sands  
