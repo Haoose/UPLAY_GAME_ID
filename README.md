@@ -145,6 +145,7 @@ List of GAME ID's in Uplay by Ubisoft
 5705 - Scott Pilgrim vs the World The Game  
 5726 - Immortal Fenyx Rising Demo  
 9797 - Ode  
+11784 - The Settlers: 3 - History Edition
 11899 - Roller Champions  
 11957 - Hyper Scape  
 16238 - Anno 1701 History Edition  
