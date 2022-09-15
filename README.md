@@ -105,13 +105,22 @@ List of GAME ID's in Uplay by Ubisoft
 750 - The Crew (Beta)  
 5037 - The Crew 2  
 
+# The Settlers Franchise
+8 - The Settlers 7: Paths to a Kingdom  
+18 - The Settlers Online  
+11662 - The Settlers  
+11783 - The Settlers 2: Veni, Vidi, Vici - History Edition  
+11784 - The Settlers 3 - History Edition  
+11785 - The Settlers 4 - History Edition  
+11786 - The Settlers 5: Heritage of Kings - History Edition  
+11787 - The Settlers 6 - History Edition  
+11788 - The Settlers 7: Paths to a Kingdom - History Edition  
+
 # Other
 2 - The Crew 2 Trial Version  
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
 5 - Trial Rising Demo  
-8 - The Settlers 7: Paths to a Kingdom  
 13 - Driver: San Francisco  
-18 - The Settlers Online  
 44 - Might & Magic Heroes VI  
 78 - Trials Evolution: Gold Edition  
 80 - Rayman Origins  
@@ -145,7 +154,6 @@ List of GAME ID's in Uplay by Ubisoft
 5705 - Scott Pilgrim vs the World The Game  
 5726 - Immortal Fenyx Rising Demo  
 9797 - Ode  
-11784 - The Settlers: 3 - History Edition  
 11899 - Roller Champions  
 11957 - Hyper Scape  
 16238 - Anno 1701 History Edition  
