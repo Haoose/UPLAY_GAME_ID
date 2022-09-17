@@ -97,7 +97,8 @@ List of GAME ID's in Uplay by Ubisoft
 89 - Anno 1404  
 1253 - Anno 2205   
 2990 - Anno 1602  
-4553 - Anno 1800
+4553 - Anno 1800  
+16238 - Anno 1701 History Edition  
 
 # The Crew Franchise
 413 - The Crew (Worldwide)  
@@ -156,7 +157,6 @@ List of GAME ID's in Uplay by Ubisoft
 9797 - Ode  
 11899 - Roller Champions  
 11957 - Hyper Scape  
-16238 - Anno 1701 History Edition  
 
 # To be verified
 276 - Prince of Persia  
