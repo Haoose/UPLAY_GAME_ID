@@ -19,6 +19,7 @@ List of GAME ID's in Uplay by Ubisoft
 720 - Assassin's Creed Unity  
 857 - Assassin's Creed Unity (Steam)  
 895 - Assassin's Creed Rogue  
+934 - Assassin's Creed Rogue (Steam Version)  
 944 - Assassin's Creed Unity (RU)  
 945 - Assassin's Creed Unity (RU) (Steam Version)  
 1186 - Assassin's Creed Rogue (RU)  
@@ -103,6 +104,7 @@ List of GAME ID's in Uplay by Ubisoft
 # The Crew Franchise
 413 - The Crew (Worldwide)  
 507 - The Crew (Russian)  
+665 - The Crew 2 (Steam Version)  
 750 - The Crew (Beta)  
 5037 - The Crew 2  
 
@@ -162,7 +164,6 @@ List of GAME ID's in Uplay by Ubisoft
 276 - Prince of Persia  
 632 - Assassin's Creed® Liberation HD (RU) ?  
 856 - Far Cry® 4 (unknown Version)  
-934 - Assassin's Creed Rogue (unknown Version)  
 1428 - Watch Dogs (US) ?  
 2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
