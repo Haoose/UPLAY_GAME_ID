@@ -64,6 +64,7 @@ List of GAME ID's in Uplay by Ubisoft
 274 - Watch_Dogs  
 543 - Watch_Dogs (RU)  
 741 - Watch_Dogs (Steam)  
+1428 - Watch_Dogs Complete Edition  
 2688 - WATCH_DOGS® 2  
 3353 - Watch Dogs: Legion  
 3619 - WATCH_DOGS® 2 (Steam)  
@@ -85,7 +86,7 @@ List of GAME ID's in Uplay by Ubisoft
 2970 - Tom Clancy's Ghost Recon® Wildlands (Open Beta)  
 1835 - Tom Clancy's The Division™ (RU)  
 1842 - Tom Clancy's Rainbow Six® Siege (RU)  
-1843 - Tom Clancy's Rainbow Six® Siege (Steam)
+1843 - Tom Clancy's Rainbow Six® Siege (Steam)  
 2036 - Tom Clancy's The Division Beta  
 2235 - Tom Clancy's Rainbow Six® 3 Gold  
 2297 - Tom Clancy's Ghost Recon  
@@ -95,7 +96,7 @@ List of GAME ID's in Uplay by Ubisoft
 4932 - Tom Clancy's The Division® 2  
 5159 - Tom Clancy's The Division 2 - PPS  
 5271 - Tom Clancy's Rainbow Six® Extraction  
-10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)
+10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
 11903 - Tom Clancy's Ghost Recon® Breakpoint  
 
 # Prince of Persia Franchise
@@ -239,7 +240,7 @@ List of GAME ID's in Uplay by Ubisoft
 11899 - Roller Champions  
 11957 - Hyper Scape  
 17905 - Monopoly Madness  
-60951 - Project U
+60951 - Project U  
 61432 - Fell Seal: Arbiter's Mark  
 61499 - Evan's Remains  
 61503 - Astrologaster  
@@ -250,7 +251,6 @@ List of GAME ID's in Uplay by Ubisoft
 276 - Prince of Persia  
 632 - Assassin's Creed® Liberation HD (RU) ?  
 856 - Far Cry® 4 (unknown Version)  
-1428 - Watch Dogs (US) ?  
 2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
 
