@@ -37,7 +37,8 @@ List of GAME ID's in Uplay by Ubisoft
 5059 - Assassin's Creed® Odyssey  
 5092 - Assassin's Creed® Odyssey (Steam Version)  
 5100 - Discovery Tour by Assassin's Creed: Ancient Egypt  
-5183 - Assassin's Creed® III - Remastered  
+5183/0 - Assassin's Creed® III - Remastered  
+5183/1 - Assassin's Creed® Liberation - Remastered  
 5184 - Assassin's Creed® III - Remastered (Steam Version)  
 5404 - Discovery Tour: Ancient Greece by Ubisoft  
 13504 - Assassin's Creed® Valhalla  
