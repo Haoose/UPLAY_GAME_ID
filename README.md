@@ -130,6 +130,7 @@ List of GAME ID's in Uplay by Ubisoft
 # The Settlers Franchise
 8 - The Settlers 7: Paths to a Kingdom  
 18 - The Settlers Online  
+3037 - The Settlers - New Allies  
 11662 - The Settlers - History Edition  
 11783 - The Settlers 2: Veni, Vidi, Vici - History Edition  
 11784 - The Settlers 3 - History Edition  
