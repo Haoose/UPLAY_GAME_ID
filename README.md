@@ -239,7 +239,8 @@ List of GAME ID's in Uplay by Ubisoft
 9797 - Ode  
 10871 - Transference  
 11899 - Roller Champions  
-11957 - Hyper Scape  
+11957 - Hyper Scape
+15657 - XDefiant Closed Beta
 17905 - Monopoly Madness  
 60951 - Project U  
 61432 - Fell Seal: Arbiter's Mark  
