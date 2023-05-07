@@ -30,6 +30,7 @@ List of GAME ID's in Uplay by Ubisoft
 1848 - Assassin's Creed® Chronicles Russia  
 1875 - Assassin's Creed® Syndicate  
 1955 - Assassin's Creed® Syndicate (RU)  
+1957 - Assassin's Creed® Syndicate (Steam Version)  
 1958 - Assassin's Creed® Syndicate (RU) (Steam Version)  
 3539 - Assassin's Creed® Origins  
 4919 - Assassin's Creed II (Steam Version)  
@@ -54,6 +55,7 @@ List of GAME ID's in Uplay by Ubisoft
 4311 - Far Cry® 5 (Steam Version)  
 2010 - Far Cry® Primal  
 5210 - Far Cry® New Dawn  
+5211 - Far Cry® New Dawn (Steam Version)  
 5266 - Far Cry® 6  
 17772 - Far Cry® 6 Episode 1 Insanity DLC  
 17773 - Far Cry® 6 Episode 2 Pagan: Control DLC  
@@ -62,12 +64,14 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Watch_Dogs Franchise
 274 - Watch_Dogs  
+541 - Watch_Dogs (Steam)  
 543 - Watch_Dogs (RU)  
 741 - Watch_Dogs (Steam)  
 1428 - Watch_Dogs Complete Edition  
 2688 - WATCH_DOGS® 2  
 3353 - Watch Dogs: Legion  
 3619 - WATCH_DOGS® 2 (Steam)  
+7017 - Watch Dogs: Legion (Steam)  
 
 # Tom Clancy's Franchise
 2 - Tom Clancy's Splinter Cell Conviction  
