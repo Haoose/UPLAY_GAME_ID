@@ -57,7 +57,7 @@ List of GAME ID's in Uplay by Ubisoft
 5210 - Far Cry® New Dawn  
 5211 - Far Cry® New Dawn (Steam Version)  
 5266 - Far Cry® 6  
-920 - Far Cry® 6 (Steam Version)
+920 - Far Cry® 6 (Steam Version)  
 17772 - Far Cry® 6 Episode 1 Insanity DLC  
 17773 - Far Cry® 6 Episode 2 Pagan: Control DLC  
 17774 - Far Cry® 6 Episode 3 Joseph: Collapse DLC  
