@@ -15,6 +15,7 @@ List of GAME ID's in Uplay by Ubisoft
 441 - Assassin’s Creed® IV Black Flag™ (RU)  
 442 - Assassin’s Creed® IV Black Flag™ (Asia)  
 625 - Assassin's Creed® Liberation HD  
+632 - Assassin's Creed® Liberation HD (Uplay version/Australia)  
 664 - Assassin's Creed® Freedom Cry  
 720 - Assassin's Creed® Unity  
 857 - Assassin's Creed® Unity (Steam)  
@@ -50,10 +51,12 @@ List of GAME ID's in Uplay by Ubisoft
 85 - Far Cry 2  
 205 - Far Cry® 3 Blood Dragon  
 420 - Far Cry® 4  
+856 - Far Cry® 4 (Steam version/Australia)  
 969 - Far Cry 4 RU  
 1803 - Far Cry® 5  
 4311 - Far Cry® 5 (Steam Version)  
 2010 - Far Cry® Primal  
+2029 - Far Cry® Primal (Steam version/Australia)  
 5210 - Far Cry® New Dawn  
 5211 - Far Cry® New Dawn (Steam Version)  
 5266 - Far Cry® 6  
@@ -103,6 +106,7 @@ List of GAME ID's in Uplay by Ubisoft
 5271 - Tom Clancy's Rainbow Six® Extraction  
 10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
 11903 - Tom Clancy's Ghost Recon® Breakpoint  
+12737 - Tom Clancy's Ghost Recon® Breakpoint (Uplay Open + Closed Beta)  
 
 # Prince of Persia Franchise
 11 - Prince of Persia® The Forgotten Sands™  
@@ -256,9 +260,6 @@ List of GAME ID's in Uplay by Ubisoft
 
 # To be verified
 276 - Prince of Persia  
-632 - Assassin's Creed® Liberation HD (RU) ?  
-856 - Far Cry® 4 (unknown Version)  
-2029 - Far Cry® Primal (RU) ?  
 2052 - Anno 2205 (unknown Version)  
 
 More: https://github.com/d3adm4u5/UplayGameIDs/blob/master/latest.txt
