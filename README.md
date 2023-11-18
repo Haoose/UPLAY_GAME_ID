@@ -42,6 +42,7 @@ List of GAME ID's in Uplay by Ubisoft
 5183 - Assassin's Creed® III - Remastered  
 5184 - Assassin's Creed® III - Remastered (Steam Version)  
 5404 - Discovery Tour: Ancient Greece by Ubisoft  
+6100 - Assassin's Creed® Mirage
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
 
