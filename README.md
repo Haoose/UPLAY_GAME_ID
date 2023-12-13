@@ -238,6 +238,7 @@ List of GAME ID's in Uplay by Ubisoft
 3458 - For Honor  
 3584 - South Park™ - The Stick of Truth™  
 3774 - Monopoly Plus  
+4740 - Avatar: Frontier of Pandora (Uplay)  
 5277 - Starlink: Battle For Atlas  
 5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
