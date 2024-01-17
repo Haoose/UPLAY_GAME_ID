@@ -115,6 +115,7 @@ List of GAME ID's in Uplay by Ubisoft
 113 - Prince of Persia: The Two Thrones™  
 121 - Prince of Persia: Warrior Within  
 277 - Prince of Persia (2008)  
+6145 - Prince of Persia: The Lost Crown  
 
 # Anno Franchise
 22 - Anno 2070  
