@@ -26,11 +26,16 @@ List of GAME ID's in Uplay by Ubisoft
 1186 - Assassin's Creed Rogue (RU)  
 1187 - Assassin's Creed Rogue (RU) (Steam Version)  
 1651 - Assassin's Creed® Chronicles China  
+1661 - Assassin's Creed Rogue Asia  
+1662 - Assassin's Creed Rogue Asia (Steam)  
 1841 - Assassin's Creed® Chronicles China (Steam Version)  
 1847 - Assassin's Creed® Chronicles India  
 1848 - Assassin's Creed® Chronicles Russia  
+1849 - Assassin's Creed® Chronicles India (Steam)  
+1850 - Assassin's Creed® Chronicles Russia (Steam)  
 1875 - Assassin's Creed® Syndicate  
 1955 - Assassin's Creed® Syndicate (RU)  
+1956 - Assassin's Creed® Syndicate Asia  
 1957 - Assassin's Creed® Syndicate (Steam Version)  
 1958 - Assassin's Creed® Syndicate (RU) (Steam Version)  
 3539 - Assassin's Creed® Origins  
@@ -43,6 +48,8 @@ List of GAME ID's in Uplay by Ubisoft
 5184 - Assassin's Creed® III - Remastered (Steam Version)  
 5404 - Discovery Tour: Ancient Greece by Ubisoft  
 6100 - Assassin's Creed® Mirage  
+7013 - Assassin's Creed® Valhalla (Steam)  
+11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)  
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
 
@@ -71,7 +78,9 @@ List of GAME ID's in Uplay by Ubisoft
 274 - Watch_Dogs  
 541 - Watch_Dogs (Steam)  
 543 - Watch_Dogs (RU)  
+545 - Watch Dogs Asia  
 741 - Watch_Dogs (Steam)  
+828 - Watch Dogs Asia (Steam)  
 1428 - Watch_Dogs Complete Edition  
 2688 - WATCH_DOGS® 2  
 3353 - Watch Dogs: Legion  
@@ -89,6 +98,7 @@ List of GAME ID's in Uplay by Ubisoft
 109 - Tom Clancy's Splinter Cell  
 110 - Tom Clancy's Splinter Cell Double Age  
 358 - Tom Clancy's Rainbow Six® Lockdown  
+449 - Tom Clancy's Splinter Cell Blacklist (Steam)  
 568 - Tom Clancy's The Division™  
 635 - Tom Clancy's Rainbow Six® Siege  
 1771 - Tom Clancy's Ghost Recon® Wildlands  
@@ -101,8 +111,10 @@ List of GAME ID's in Uplay by Ubisoft
 2297 - Tom Clancy's Ghost Recon  
 2298 - Tom Clancy's Rainbow Six®  
 3502 - Tom Clancy's The Division PTS  
+3559 - Tom Clancy's Ghost Recon Wildlands (Steam)  
 4865 - Tom Clancy's Rainbow Six® Siege Test Server  
 4932 - Tom Clancy's The Division® 2  
+4984 - Tom Clancy's Ghost Recon Wildlands Open Beta  
 5159 - Tom Clancy's The Division 2 - PPS  
 5271 - Tom Clancy's Rainbow Six® Extraction  
 10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
@@ -119,12 +131,15 @@ List of GAME ID's in Uplay by Ubisoft
 
 # Anno Franchise
 22 - Anno 2070  
+71 - Anno 2070 (Steam)  
 89 - Anno 1404  
 678 - ANNO 2070® Complete Edition  
+680 - Anno 2070 RUS  
 1253 - Anno 2205   
 2990 - Anno 1602  
 4553 - Anno 1800 (Uplay)  
 4554 - Anno 1800 (Uplay+Steam)  
+13800 - Anno 1800 - Open Beta  
 16232 - Anno 1404 - History Edition  
 16234 - Anno 1503 - History Edition  
 16236 - Anno 1602 - History Edition  
@@ -157,7 +172,11 @@ List of GAME ID's in Uplay by Ubisoft
 362 - Rayman Raving Rabbids™  
 410 - Rayman® Legends  
 411 - Rayman Legends Demo  
+509 - Rayman Chinese Special Edition  
 2968 - Rayman Forever  
+5850 - Rayman Jungle Run  
+5860 - Rayman Fiesta Run  
+61578 - Rabbids: Party of Legends  
 
 # Might and Magic Franchise
 44 - Might & Magic Heroes VI  
@@ -170,17 +189,23 @@ List of GAME ID's in Uplay by Ubisoft
 353 - Heroes® of Might & Magic® III Complete Edition  
 354 - Heroes® of Might & Magic® IV Complete Edition  
 401 - Might & Magic X Legacy (Uplay)  
+402 - Might & Magic X Legacy (Steam)  
 403 - Might & Magic X Legacy (Uplay+Steam)  
 1176 - Might & Magic Heroes VII  
+1177 - Might & Magic Heroes VII (Steam)  
 5042 - Might & Magic Heroes VI  
 5613 - Might & Magic - Chess Royale  
 
 # Trials Franchise
 78 - Trials Evolution: Gold Edition  
 297 - Trials Fusion  
+318 - Trials Fusion (Steam)  
+834 - Trials Fusion Demo (Steam)  
 1275 - Trials Fusion Multiplayer Beta  
+3301 - Trials of the Blood Dragon (Steam)  
 3600 - Trials Rising  
 3601 - Trials Rising  
+5233 - Trials Rising - Open Beta  
 5454 - Trials® Rising Demo  
 
 # UNO
@@ -200,7 +225,9 @@ List of GAME ID's in Uplay by Ubisoft
 3 - Silent Hunter®: Battle of the Atlantic Gold Edition  
 5 - Trial Rising Demo  
 13 - Driver: San Francisco  
+20 - Shaun White Snowboarding  
 30 - From Dust  
+68 - Silent Hunter 5  
 90 - World In Conflict  
 93 - I am Alive  
 232 - Beyond Good and Evil™  
@@ -212,18 +239,24 @@ List of GAME ID's in Uplay by Ubisoft
 293 - Silent Hunter 4 Gold Edition  
 422 - Flashback  
 423 - Flashback Demo  
+424 - Driver San Francisco 大概 (Steam)  
 540 - ShootMania Storm Elite Demo  
 569 - For Honor  
 609 - Child of Light  
+611 - Child of Light (Steam)  
 659 - Valiant Hearts (Uplay)  
 661 - Valiant Hearts (Steam)  
 688 - Lock On  
 693 - Petz Horsez 2  
+698 - Silent Hunter 4 Wolves of the Pacific (Uplay)  
+699 - Silent Hunter 4 Wolves of the Pacific: U-Boat Missions (Uplay)  
 801 - Child of Light Demo  
 825 - Champions of Anteria  
 1653 - ZOMBI (Uplay)  
+1713 - Skull and Bones  
 1832 - Zombi (Uplay+Steam)  
 2070 - Trackmania Turbo  
+2170 - Champions of Anteria (Steam)  
 2988 - Silent Hunter 2  
 2992 - Panzer General 3D Assault  
 2993 - Panzer General 2  
@@ -235,11 +268,19 @@ List of GAME ID's in Uplay by Ubisoft
 3054 - Warlords Battlecry 2  
 3088 - South Park™: The Fractured But Whole™  
 3097 - Champions of Anteria Demo  
+3098 - Champions of Anteria Demo (Steam)  
+3130 - Just Dance 2017  
+3131 - Just Dance 2017 (Steam)  
 3279 - Steep  
+3280 - Steep (Steam)  
+3445 - Steep Open Beta  
 3458 - For Honor  
 3584 - South Park™ - The Stick of Truth™  
 3774 - Monopoly Plus  
+3775 - Monopoly Plus (Steam)  
+4472 - Steep Open Beta (Steam)  
 4740 - Avatar: Frontier of Pandora (Uplay)  
+4502 - South Park: The Fractured But Whole (Steam)  
 5277 - Starlink: Battle For Atlas  
 5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
@@ -247,9 +288,14 @@ List of GAME ID's in Uplay by Ubisoft
 5595 - Trackmania  
 5705 - Scott Pilgrim vs the World: The Game  
 5726 - Immortal Fenyx Rising™ Demo  
+5870 - Hungry Shark World  
 6116 - The Last Friend  
+6150 - Skull and Bones Open Beta Closed Beta  
+9662 - Valiant Hearts: Coming Home  
 9797 - Ode  
 10871 - Transference  
+10885 - Steep Road To The Olympics Beta  
+10886 - Steep Road To The Olympics Beta (Steam)  
 11899 - Roller Champions  
 11957 - Hyper Scape  
 15657 - XDefiant Closed Beta  
@@ -260,6 +306,7 @@ List of GAME ID's in Uplay by Ubisoft
 61503 - Astrologaster  
 61515 - Lake  
 61517 - A Normal Lost Phone  
+62326 - Immortals Fenyx Rising (Steam)  
 
 # To be verified
 276 - Prince of Persia  
