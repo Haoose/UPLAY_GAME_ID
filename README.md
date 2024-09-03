@@ -299,6 +299,7 @@ List of GAME ID's in Uplay by Ubisoft
 11899 - Roller Champions  
 11957 - Hyper Scape  
 15657 - XDefiant Closed Beta  
+17903 - Star Wars: Outlaws  
 17905 - Monopoly Madness  
 60951 - Project U  
 61432 - Fell Seal: Arbiter's Mark  
