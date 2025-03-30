@@ -23,6 +23,7 @@ List of GAME ID's in Uplay by Ubisoft
 934 - Assassin's Creed® Rogue (Steam Version)  
 944 - Assassin's Creed Unity (RU)  
 945 - Assassin's Creed Unity (RU) (Steam Version)  
+1081 - Assassin's Creed® Shadows (Steam Version)  
 1186 - Assassin's Creed Rogue (RU)  
 1187 - Assassin's Creed Rogue (RU) (Steam Version)  
 1651 - Assassin's Creed® Chronicles China  
@@ -50,6 +51,7 @@ List of GAME ID's in Uplay by Ubisoft
 6100 - Assassin's Creed® Mirage  
 6101 - Assassin's Creed® Mirage (Steam)  
 7013 - Assassin's Creed® Valhalla (Steam)  
+8006 - Assassin's Creed® Shadows  
 11373 - Discovery Tour: Ancient Egypt by Assassin’s Creed (Steam)  
 13504 - Assassin's Creed® Valhalla  
 19000 - Discovery Tour: Viking Age by Ubisoft  
