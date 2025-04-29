@@ -311,6 +311,7 @@ List of GAME ID's in Uplay by Ubisoft
 61515 - Lake  
 61517 - A Normal Lost Phone  
 62326 - Immortals Fenyx Rising (Steam)  
+64181 - Star Wars: Outlaws (Steam)  
 
 # To be verified
 276 - Prince of Persia  
