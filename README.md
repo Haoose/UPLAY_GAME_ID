@@ -288,6 +288,7 @@ List of GAME ID's in Uplay by Ubisoft
 5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
 5487 - Riders Republic  
+5480 - Riders Republic (Steam)   
 5595 - Trackmania  
 5705 - Scott Pilgrim vs the World: The Game  
 5726 - Immortal Fenyx Rising™ Demo  
