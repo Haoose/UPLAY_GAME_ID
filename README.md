@@ -142,7 +142,7 @@ List of GAME ID's in Uplay by Ubisoft
 2990 - Anno 1602  
 4553 - Anno 1800 (Uplay)  
 4554 - Anno 1800 (Uplay+Steam)  
-6245 - Anno 117: Pax Romana (Steam Demo)
+6245 - Anno 117: Pax Romana (Steam Demo)  
 13800 - Anno 1800 - Open Beta  
 16232 - Anno 1404 - History Edition  
 16234 - Anno 1503 - History Edition  
