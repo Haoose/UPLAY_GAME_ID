@@ -139,7 +139,7 @@ List of GAME ID's in Uplay by Ubisoft
 678 - ANNO 2070® Complete Edition  
 680 - Anno 2070 RUS  
 6245 - Anno 117: Pax Romana (Steam)  
-1253 - Anno 2205 
+1253 - Anno 2205  
 2990 - Anno 1602  
 4553 - Anno 1800 (Uplay)  
 4554 - Anno 1800 (Uplay+Steam)  
